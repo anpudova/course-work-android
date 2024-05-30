@@ -1,0 +1,31 @@
+package com.itis.core.designsystem
+
+import androidx.compose.ui.graphics.Color
+
+val replyLightPrimary = Color(0xFF3d3f66)
+val replyLightOnPrimary = Color(0xFFFCFCFC)
+val replyLightPrimaryContainer = Color(0xF32A3546)
+val replyLightOnPrimaryContainer = Color(0xFF2A1800)
+val replyLightSecondary = Color(0xFF2A3546)
+val replyLightOnSecondary = Color(0xFFFFFFFF)
+val replyLightSecondaryContainer = Color(0xFFFCFCFC)
+val replyLightOnSecondaryContainer = Color(0xFF271904)
+val replyLightTertiary = Color(0xFF516440)
+val replyLightOnTertiary = Color(0xFFFFFFFF)
+val replyLightTertiaryContainer = Color(0xFFD3EABC)
+val replyLightOnTertiaryContainer = Color(0xFF102004)
+val replyLightError = Color(0xFFBA1B1B)
+val replyLightErrorContainer = Color(0xF3f7f7f7)
+val replyLightOnError = Color(0xFFFFFFFF)
+val replyLightOnErrorContainer = Color(0xFF410001)
+val replyLightBackground = Color(0xFFFCFCFC)
+val replyLightOnBackground = Color(0xFF1F1B16)
+val replyLightSurface = Color(0xFFFCFCFC)
+val replyLightOnSurface = Color(0xFF1F1B16)
+val replyLightSurfaceVariant = Color(0xFFFCFCFC)
+val replyLightOnSurfaceVariant = Color(0xFF4F4539)
+val replyLightOutline = Color(0xFFFCFCFC)
+val replyLightInverseOnSurface = Color(0xFFFCFCFC)
+val replyLightInverseSurface = Color(0xFF34302A)
+val replyLightPrimaryInverse = Color(0xFFFCFCFC)
+

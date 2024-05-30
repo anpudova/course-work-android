@@ -1,0 +1,58 @@
+{
+  "accidents": [
+    {
+      "name": "Вашу квартиру ограбили",
+      "recovery_cost": 80000,
+      "happiness_loss": 1,
+      "insurance": "Квартира"
+    },
+    {
+      "name": "Случился пожар в квартире",
+      "recovery_cost": 200000,
+      "happiness_loss": 2,
+      "insurance": "Квартира"
+    },
+    {
+      "name": "Вы попали в аварию на машине",
+      "recovery_cost": 100000,
+      "happiness_loss": 1,
+      "insurance": "КАСКО"
+    },
+    {
+      "name": "Вы сломали руку",
+      "recovery_cost": 10000,
+      "happiness_loss": 1,
+      "insurance": "ДМС"
+    },
+    {
+      "name": "Ваш автомобиль исцарапали",
+      "recovery_cost": 50000,
+      "happiness_loss": 1,
+      "insurance": "КАСКО"
+    },
+    {
+      "name": "Соседи затопили вашу квартиру",
+      "recovery_cost": 100000,
+      "happiness_loss": 1,
+      "insurance": "Квартира"
+    },
+    {
+      "name": "Вы получили серьезное заболевание",
+      "recovery_cost": 100000,
+      "happiness_loss": 2,
+      "insurance": "ДМС"
+    },
+    {
+      "name": "Вы столкнулись с диким животным на дороге",
+      "recovery_cost": 100000,
+      "happiness_loss": 2,
+      "insurance": "КАСКО"
+    },
+    {
+      "name": "Вы сильно заболели и пришлось проходить множество врачей",
+      "recovery_cost": 15000,
+      "happiness_loss": 1,
+      "insurance": "ДМС"
+    }
+  ]
+}
